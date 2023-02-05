@@ -19,6 +19,8 @@ Projeto consiste em uma análise exploratória mais densa nos dados. Notebook fo
   ______
   
   ## [3 - Previsão câncer de mama](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/2%20-%20Ecommerce)
+  ### Projeto sendo refatorado
+  <br>
  O objeitivo do projeto era desenvolver um modelo preditivo, com ensino supervisionado para prever o câncer de mama.
  Foi usado o modelo do RandomForest, da biblioteca Sklearn. Não foi realizado todo o Pipeline completo de um projeto de Data Science. A EDA, por exemplo, foi pouca. Pois, o principal era a criação do modelo.
   
