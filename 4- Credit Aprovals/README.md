@@ -15,6 +15,7 @@ O projeto consiste em uma análise de dados e a criação de um modelo de Machin
 
 # 2. Sobre os dados
 A base de dados contém 15 atributos. Como dito na introdução, os dados foram alterados para aumentar a privacidade. Assim, os dados foram baixados dessa maneira.
+<br>
 ![dados-projeto](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/4-%20Credit%20Aprovals/imagens/DescricaoDados.png)
 <br>
 *Figura 1:  Base de dados do projeto*
@@ -41,6 +42,7 @@ Nessa fase, o foco era nos plots de gráfico. Busquei analisar padrões de distr
 ![histograma](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/4-%20Credit%20Aprovals/imagens/histogramas.png)
 <br>
 *Figura 5: Análise da distribuição dos dados numéricos através do Histograma.*
+<br>
 <br>
 Nota-se que os dados não seguem uma distribuição normal. Além disso, nos outliers a coluna dita acima que contém uma alta variância também contém outliers em maior quantidade e escala. Abaixo, outlier do campo 0.1. Foi plotado separadamente a fim de facilitar a visualização.
 <br>
