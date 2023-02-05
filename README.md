@@ -27,3 +27,6 @@ Projeto consiste em uma análise exploratória mais densa nos dados. Notebook fo
 * Exibindo Acurácia nos dados de teste
 
 ![matriz-de_confusao](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/3%20-%20Breastt%20Cancer/graficos/output.png)
+
+## [4 - Credit card Approval](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals)
+O projeto consiste em uma análise de dados e a criação de um modelo de Machine Learning com a principal finalidade de aprovar concessão de crédito. A base de dados está disponível na UCI,  Credit Approval Data Set. Os dados foram ocultos para proteger a privacidade dos mesmos. Nesse documento terá uma abordagem nas principais modelagem e aplicação realizada neste dataset a fim de obter um bom resultado. 
