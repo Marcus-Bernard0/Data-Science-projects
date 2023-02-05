@@ -8,7 +8,7 @@ Nesse projeto foi realizado uma anlise exploratória dos dados.
 * Maior período de estudo garante um maior salário?
 * Distribuição de renda por sexo
 
-![renda-xexo](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/1%20-%20Projeto%20PNAD/Estudo%20por%20sexo.png)
+![renda-estudo](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/1%20-%20Projeto%20PNAD/Imagens/CorrelacaoAnosdeEstudoeRenda.png?raw=true)
 ___
 ## [2 - Projeto Eccomerce](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/2%20-%20Ecommerce)
 Projeto consiste em uma análise exploratória mais densa nos dados. Notebook foi divido em analise exploratória e explanatória. Dica obtida através do livro *Storytelling* com dados. Os gráficos também seguem um padrão de cores, para atender as necessidades de quem irá visualizar.
