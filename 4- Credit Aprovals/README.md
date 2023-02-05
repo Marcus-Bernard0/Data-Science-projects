@@ -1,12 +1,12 @@
 # Sumário
 
-**[1. Intdodução](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)	 <br>
+**[1. Intdodução](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#1introdu%C3%A7%C3%A3o)	 <br>
 [2. Sobre os dados](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)	 <br>
-[3. Exploração dos dados](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)	 <br>
-[4. Visualização](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)	 <br>
-[5. Pré Processamento](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados) <br>
-[6. Modelo](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)	 <br>
-[7. Conclusão](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#2-sobre-os-dados)**	
+[3. Exploração dos dados](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#3-explora%C3%A7%C3%A3o-dos-dados)	 <br>
+[4. Visualização](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#4-visualiza%C3%A7%C3%A3o)	 <br>
+[5. Pré Processamento](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#5-pr%C3%A9-processamento) <br>
+[6. Modelo](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#6-modelo)	 <br>
+[7. Conclusão](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals#7-conclus%C3%A3o)**	
 
 
 # 1.Introdução
