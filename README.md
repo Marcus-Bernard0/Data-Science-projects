@@ -33,3 +33,9 @@ Projeto consiste em uma análise exploratória mais densa nos dados. Notebook fo
 ## [4 - Credit card Approval](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/4-%20Credit%20Aprovals)
 O projeto consiste em uma análise de dados e a criação de um modelo de Machine Learning com a principal finalidade de aprovar concessão de crédito. A base de dados está disponível na UCI,  Credit Approval Data Set. Os dados foram ocultos para proteger a privacidade dos mesmos. Nesse documento terá uma abordagem nas principais modelagem e aplicação realizada neste dataset a fim de obter um bom resultado. 
 ![histogramas](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/4-%20Credit%20Aprovals/imagens/histogramas.png)
+
+---
+## [5 - Projeto Web Scrapping imóveis e Análise de Dados](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/5%20-%20Web%20Scraping%20Imoveis%20%2B%20Power%20BI)
+Projeto consistiu em fazer o scrapping dos dados do zapimóveis e a criação do dashboard no Power BI. O projeto envolveu etapas depegar os dados com o Beautifulsoup, tratamento dos dados com Python e Power Query, enviar os dados para o Google BigQuery, leitura dos dados no Power BI e criação do painel e geração de insights.
+
+![Dashboard](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/5%20-%20Web%20Scraping%20Imoveis%20%2B%20Power%20BI/imagens/Dashboard.png)
